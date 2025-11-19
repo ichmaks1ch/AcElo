@@ -15,13 +15,13 @@
 - Сохранение в data.yml
 
 ## Установка
-1. Кидаем `AcElo.jar` в папку plugins
-2. Перезапускаем сервер
-3. Настраиваем config.yml под себя
-4. PROFIT!
+1. Скачиваем сам плагин [тык]([https://github.com/ТВОЙ_НИК/AcElo/releases](https://github.com/ichmaks1ch/AcElo/releases)).
+2. Кидаем `AcElo.jar` в папку plugins
+3. Перезапускаем сервер
+4. Настраиваем config.yml под себя
+5. PROFIT!
 
 ## Ссылки
-- Скачать: [Releases](https://github.com/ТВОЙ_НИК/AcElo/releases)
-- Поддержать автора: Boosty/Donate
+- Скачать: [тык]([https://github.com/ТВОЙ_НИК/AcElo/releases](https://github.com/ichmaks1ch/AcElo/releases))
 
-**Твой сервер станет легендарным с AcElo**
+**Твой пвп сервер станет лучше с AcElo**
