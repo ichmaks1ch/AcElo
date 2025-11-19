@@ -20,7 +20,7 @@
    - [PlaceholderAPI](https://spigotmc.org/resources/6245/) (для работы плагина он нужен тоже)
    - [DecentHolograms](https://modrinth.com/plugin/decentholograms) ИЛИ [HolographicDisplays](https://dev.bukkit.org/projects/holographic-displays)
 
-2. Перезагрузи сервер (или выполни `/papi reload AcElo`)
+2. Перезагрузи сервер
 
 3. Создай голограмму командой:
    - DecentHolograms: `/dh create elo_top`
