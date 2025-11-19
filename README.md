@@ -2,7 +2,7 @@
 
 [![Spigot](https://img.shields.io/badge/Spigot-1.16--1.21-brightgreen)](https://spigotmc.org)
 [![Version](https://img.shields.io/badge/Version-2.7-blue)](https://github.com/maks1ch/AcElo/releases)
-[![Downloads](https://img.shields.io/github/downloads/maks1ch/AcElo/total)](https://github.com/ТВОЙ_НИК/AcElo/releases)
+[![Downloads](https://img.shields.io/github/downloads/maks1ch/AcElo/total)](https://github.com/maks1ch/AcElo/releases)
 
 Самая красивая, быстрая и настраиваемая ELO + ранги система!
 
